@@ -33,7 +33,7 @@ __| **Criterios de aceptación**
 3 | Al editar una asignatura debe aparecer en la tabla asignaturas de la base de datos.
 4 | El campo nombreAsignatura no debe estar vacío.
 
-## REVISIÓN
+#### **REVISIÓN**
 Criterio | Comentario | Realizado por | Solucionado
 ---------|------------|---------------|------------
 Completo | Conforme | Equipo
@@ -44,6 +44,6 @@ Estimable | Conforme | Equipo
 Pequeña | Conforme | Equipo
 Comprobable | Conforme | Equipo
 
-## Wireframe para la historia de usuario HU002
+#### *Wireframe para la historia de usuario HU002*
 ![image](https://user-images.githubusercontent.com/69438277/177279234-18fbd9c8-de5a-4dc2-bf2c-4a0fef298ecd.png)
 ![image](https://user-images.githubusercontent.com/69438277/177279255-243d705a-e25f-4d1e-9324-179e4cb14b3e.png)
