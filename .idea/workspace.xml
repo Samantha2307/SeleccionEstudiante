@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bedb282f-a8cf-4851-b331-7b06c5c7a1b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/GestionAsignatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/GestionAsignatura.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/VentanaEditar.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/VentanaEditar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/aplicacion.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/aplicacion.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/AsignaturaTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/AsignaturaTestCase.py" afterDir="false" />
@@ -40,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.VentanaEditar">
+  <component name="RunManager" selected="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura">
     <configuration name="Almacenar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleccionEstudiante" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,9 +134,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.VentanaEditar" />
         <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura" />
         <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase" />
+        <item itemvalue="Python.VentanaEditar" />
         <item itemvalue="Python.Almacenar" />
         <item itemvalue="Python tests.pytest in AsignaturaTestCase.py" />
       </list>
