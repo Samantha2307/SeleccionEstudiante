@@ -107,7 +107,7 @@ class AsignaturaTestCase ( unittest.TestCase ) :
 
     def test_agregar_asignatura_repetido(self):
         resultado = self.gestionAsignatura.agregar_asignatura(nombreAsignatura ="Pruebas de software")
-        self.assertEqual(resultado, False)
+        self.assertEqual( resultado, False)
 
     def test_agregar_asignatura_NombreAsignaturaNoVacio ( self ) :
         resultado = self.gestionAsignatura.agregar_asignatura (nombreAsignatura ="")
