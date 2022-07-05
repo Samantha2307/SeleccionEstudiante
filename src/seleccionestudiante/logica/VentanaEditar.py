@@ -35,16 +35,12 @@ class Dialogo(QDialog):
         print (resultado)
 
         if resultado == True:
-            print("Funcionó")
             op = messagebox.askokcancel("Confirmación", "Se editó la asignatura con éxito")
             if op == True:
-                print ("Aceptó")
                 quit(0)
-
         else:
             op2 = messagebox.askretrycancel("Error", "Ocurrió un error, vuelva a intentarlo")
             if op2 == False:
-                print("No funcionó")
                 quit(0)
 
     def exit_app( self ):
