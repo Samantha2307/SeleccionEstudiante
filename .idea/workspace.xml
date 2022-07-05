@@ -7,7 +7,6 @@
     <list default="true" id="bedb282f-a8cf-4851-b331-7b06c5c7a1b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/GestionAsignatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/GestionAsignatura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/VentanaEditar.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/VentanaEditar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/seleccionestudiante/logica/aplicacion.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/src/seleccionestudiante/logica/aplicacion.sqlite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/AsignaturaTestCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/AsignaturaTestCase.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/aplicacion.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/tests/aplicacion.sqlite" afterDir="false" />
@@ -39,10 +38,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Operaciones" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura">
-    <configuration name="Almacenar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.VentanaEditar">
+    <configuration name="GestionAsignatura" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SeleccionEstudiante" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/seleccionestudiante/logica/Almacenar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/seleccionestudiante/logica/GestionAsignatura.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +99,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreAsignaturaNoVacio" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SeleccionEstudiante" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +111,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura&quot;" />
+      <option name="_new_target" value="&quot;AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreAsignaturaNoVacio&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in AsignaturaTestCase.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreNoNumero" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="SeleccionEstudiante" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,17 +127,17 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/AsignaturaTestCase.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreNoNumero&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura" />
-        <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase" />
         <item itemvalue="Python.VentanaEditar" />
-        <item itemvalue="Python.Almacenar" />
-        <item itemvalue="Python tests.pytest in AsignaturaTestCase.py" />
+        <item itemvalue="Python.GestionAsignatura" />
+        <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase" />
+        <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreNoNumero" />
+        <item itemvalue="Python tests.pytest for AsignaturaTestCase.AsignaturaTestCase.test_editar_asignatura_NombreAsignaturaNoVacio" />
       </list>
     </recent_temporary>
   </component>

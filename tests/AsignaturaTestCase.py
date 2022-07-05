@@ -136,3 +136,8 @@ class AsignaturaTestCase ( unittest.TestCase ) :
     def test_editar_asignatura_NombreAsignaturaNoVacio ( self ) :
         resultado = self.gestionAsignatura.editar_asignatura (idAsignatura="3", nombreAsignatura ="")
         self.assertEqual ( resultado , False )
+
+
+    def test_editar_asignatura_NombreNoNumero( self ) :
+        resultado = self.gestionAsignatura.editar_asignatura (idAsignatura="3", nombreAsignatura ="12345")
+        self.assertEqual ( resultado , False )
